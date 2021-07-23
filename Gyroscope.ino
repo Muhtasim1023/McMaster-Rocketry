@@ -1,7 +1,5 @@
 #include <MPU9250.h>
 
-#include "MPU9250.h"
-
 MPU9250 mpu; // You can also use MPU9255 as is
 
 void setup() {
